@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
 # Deployment:
-The project is deployed on vercel Link: [Website Link](https://oneboxassignment-n9ojf55nu-rajesh-kumar-jashtis-projects.vercel.app/)
+The project is deployed on vercel Link: [Website Link](https://reachinbox-green.vercel.app/)
 
 # Design File -
-https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=0-1&mode=design
+https://www.figma.com/design/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?node-id=0-1&t=AhLUC2smSPEe8NNU-0
 
 # API File -
 https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27
@@ -16,7 +16,7 @@ https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e
 ![image](https://github.com/user-attachments/assets/5a18a705-4c31-44e2-9663-f329a4b73c57)
 
 # Home Page: 
-![image](https://github.com/user-attachments/assets/a9f2329f-b29e-48cf-a29d-92df87540db3)
+![image](https://github.com/user-attachments/assets/6a89f6c9-001d-4697-a0e9-41318ca639fd)
 
 # Mails Page:
 ![image](https://github.com/user-attachments/assets/536d743b-fd77-4e8b-ba4e-bc96852f1a69)
