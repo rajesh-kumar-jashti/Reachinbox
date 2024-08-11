@@ -16,8 +16,8 @@ const Login = () => {
                         <p style={{ color: "#fff", fontSize: "20px", textAlign: "center" }}>Create new account</p>
                         <div style={{ display: "flex", flexDirection: "row", justifyContent: "center", cursor: "pointer", gap: "10px", alignItems: "center", height: "40px", borderRadius: "10px", width: "350px", marginTop: "20px", border: "2px solid #474952" }}>
                             <img src={google} alt=""/>
-                            <Link to="/dashboard">Sign Up with Google</Link>
-                            {/* <Link to="https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=https://reachinbox-git-main-rajesh-kumar-jashtis-projects.vercel.app/dashboard" className='text-sm text-gray-400 cursor-pointer'> Sign Up with Google </Link> */}
+                            {/* <Link to="/dashboard">Sign Up with Google</Link> */}
+                            <Link to="https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=https://reachinbox-27voi0gtf-rajesh-kumar-jashtis-projects.vercel.app/dashboard" className='text-sm text-gray-400 cursor-pointer'> Sign Up with Google </Link>
                         </div>
                         <p style={{
                             height: "40px",
