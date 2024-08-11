@@ -126,7 +126,7 @@ const Dashboard = () => {
                 <div style={{display: "flex", flexDirection: "row", border: "2px solid #343A40", justifyContent: "center", width: "1484px", alignItems: "center", height: "64px", background: currTheme? "#1F1F1F" : "white"}}>
                     <p style={{paddingLeft: "30px"}} className={`w-full text-left text-xl ${currTheme ? "text-white-900" : "text-black-900"} `}>Onebox</p>
                     <div style={{display: "flex", flexDirection: "row", justifyContent:"center", alignItems: "center", marginRight: "20px"}}>
-                      <Theme currTheme={currTheme} onClick={()=> setcurrTheme(!currTheme)} />
+                      <Theme currTheme={currTheme} onClick = {()=> setcurrTheme(!currTheme)} />
                       <Workspace/>
                     </div>
                 </div>
