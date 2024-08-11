@@ -10,7 +10,7 @@ https://www.figma.com/design/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?node-i
 https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27
 
 # Video Link:
-[Video Link](https://drive.google.com/file/d/1XFd1zjP-F8CX6SmqAJrNuuzNsJS0Bmh1/view?usp=drive_link)
+[Video Link](https://drive.google.com/file/d/1gWlTEK_p__gSURxYHmEzuXR89no0dW_q/view?usp=sharing)
 
 # Login Page:
 ![image](https://github.com/user-attachments/assets/5a18a705-4c31-44e2-9663-f329a4b73c57)
